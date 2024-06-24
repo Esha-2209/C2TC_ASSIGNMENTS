@@ -1,0 +1,30 @@
+package com.Assignment_03;
+
+public class GSPrimeAcc extends PrimeAcc{
+	private static final float charges=0.0f;
+
+	
+	public GSPrimeAcc(int accNo, String accNm, float charges, boolean isPrime) {
+		super(accNo, accNm, charges, isPrime);
+	}
+	
+	@Override
+	public void  bookProduct(float amount) {
+		super.bookProduct(amount);
+		System.out.println("Prime Account specific booking. Amount: " + amount);
+	}
+
+	@Override
+	public String toString() {
+		return "GSPrimeAcc [toString()=" + super.toString() + ", getClass()=" + getClass() + ", hashCode()="
+				+ hashCode() + "]";
+	}
+
+	
+	
+	
+	
+	
+	
+
+}
