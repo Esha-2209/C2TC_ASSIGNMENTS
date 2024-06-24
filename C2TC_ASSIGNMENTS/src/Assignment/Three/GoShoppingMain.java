@@ -1,6 +1,11 @@
-package com.Assignment_03;
+package Assignment.Three;
 
-public class TesterFramework {
+import Assignment.Three.Application.GSShopFactory;
+import Assignment.Three.Framework.NormalAcc;
+import Assignment.Three.Framework.PrimeAcc;
+import Assignment.Three.Framework.ShopFactory;
+
+public class GoShoppingMain {
 	public static void main(String[] args) {
 		ShopFactory sf = new GSShopFactory();
 		

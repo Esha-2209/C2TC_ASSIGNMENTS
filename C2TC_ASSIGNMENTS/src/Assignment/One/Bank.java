@@ -1,4 +1,4 @@
-package com.Assignment_01;
+package Assignment.One;
 
 public class Bank {
 	public static int totalAccounts=10000;

@@ -1,4 +1,4 @@
-package com.Assignment_01;
+package Assignment.One;
 
 public abstract class Account {
 	public abstract void deposit(double amount);     //create abstract method

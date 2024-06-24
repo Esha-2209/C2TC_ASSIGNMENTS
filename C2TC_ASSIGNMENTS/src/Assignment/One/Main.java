@@ -1,4 +1,4 @@
-package com.Assignment_01;
+package Assignment.One;
 
 public class Main {
 	public static void main(String[] args) {

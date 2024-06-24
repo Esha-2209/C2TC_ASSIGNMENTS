@@ -1,4 +1,4 @@
-package com.Task2;
+package Assignment.Two.Task2;
 
 import java.util.*;
 

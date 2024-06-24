@@ -1,4 +1,4 @@
-package com.Assignment_03;
+package Assignment.Three.Framework;
 
 public abstract class ShopAcc {
 	private final int accNo;

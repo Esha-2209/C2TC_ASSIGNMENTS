@@ -1,4 +1,4 @@
-package com.Assignment_03;
+package Assignment.Three.Framework;
 
 public abstract class PrimeAcc extends ShopAcc {
 	private final boolean isPrime; //account is prime or not

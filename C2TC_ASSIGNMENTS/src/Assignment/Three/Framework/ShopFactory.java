@@ -1,4 +1,4 @@
-package com.Assignment_03;
+package Assignment.Three.Framework;
 
 public abstract class ShopFactory {
 	public abstract PrimeAcc getNewPrimeAcc(int AccNo,String accNm, float charges,boolean isPrime);

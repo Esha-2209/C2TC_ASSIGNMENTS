@@ -1,4 +1,4 @@
-package com.Task1.copy2;
+package Assignment.Two.Task1;
 
 public class FinallyBlock {
 	public static void main(String[] args) {

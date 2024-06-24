@@ -1,4 +1,6 @@
-package com.Assignment_03;
+package Assignment.Three.Application;
+
+import Assignment.Three.Framework.PrimeAcc;
 
 public class GSPrimeAcc extends PrimeAcc{
 	private static final float charges=0.0f;
